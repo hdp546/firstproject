@@ -1,1 +1,2 @@
 this is a file from second branch
+this is a second line
